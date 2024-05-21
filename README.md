@@ -1,6 +1,7 @@
 # 🍫 Chocolate-Business-Summary
 
 ## Predicting Global Chocolate Sales: Analyzing Shipment Trends and Key Distributors Across Countries
+![image](https://github.com/KetanFulbandhe/Chocolate-Business-Summary/assets/26898572/075c8c82-e5a0-48dd-80a5-272fdb35fa54)
 
 ## Business Problem
 Identify which brands sold the most BEV and PHBV vehicles in the USA from 2015 until now. Also, determine the top-selling brands and models in each state
